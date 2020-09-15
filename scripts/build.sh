@@ -1,0 +1,1 @@
+gcloud builds submit --tag gcr.io/tap-dating-app/tap-dating-api ~/Projects/tap-dating/backend --project tap-dating-app

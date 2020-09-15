@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tap-dating-app",
+  "private_key_id": "d569bdcadb79d5e181cd58a9961e8258f78c88e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCS8rTywwEQXR2Z\ngjsajtV9LD0NMnL+h/CmZCQ4nJLHxnANG3VtorRBmZpcMdO8iiSdmIrPguPEkhi3\nCSNSH1Q3xxP/m3uAjs2UwLAcgIzCGRo+RRJyWQ08mg94FCYrh/ZT99k+IxSifAtp\nUrpqoyWD7SgUltbnHMOrH1tjt595Pe1eiorNHa7OlSrz3XRR6r28MH302SBYCrQJ\n3fJzyrQeX6ryzJ0QBItjjoCOVwNgPu8SH7FILXtplQ8vusKuYHDU8FPfyiyxz+B5\nn7Nz65AeZDfJt3qf69ap7hNvboi63kX6pA7dSBLLzCWuG77skfI8j/QqdNwveQPj\nWMeYxM/xAgMBAAECggEAFIWZuKd8IA1pA1W5LFnTPdJuSkgH4D0a4hntJwzSwNyZ\nLHNvwFpvIxQxBvwcbmG6gFnb1OQaLAsdMX6wtJjUeZ+vTsyngEoxMruAPNLFFZxM\n2nJqA5clLpfzXhkuRXkM8SgVakSa7qA1NcXMa/UR2a1Goi14oLkXKHBOIoxz1IoX\nvwS3PXENnXbILb5gU2VFvK1I7OO3qnAfE0gijqzIUTyVIXLbcIn47+ibQgRnHstx\nGHg9v3nvn7RbF8g3cX1e7O7oVhkDyJpY1bxGwasdRodR8SBVwlChrcv/AmYeI1N3\nxiqXCMupDD0hpou3lHxSo/hG5xKZDcHlfYSYZoCvuQKBgQDLQxTMI0mqLceKgr66\n6EpsA6ai4iz0oy7Mcp+SGmvXq2i8mKaTfyWqFjNp9AeCu1XYfq1OQufi1Lhxvpbu\n1B5suxErBQLyMgtk+/Z/GazXoOQZM5iSUOumJDDr1w7ltAZkesVXDs7/PYWy9X2V\n9tRfQc7LPr2GBiSVditQTPq3NQKBgQC5Ey6GT/qPUcLwIQ2MZoTOeH/aew3wqApc\n/+rY0sfuui4mBsv9TcID5BoCoN16F/OQ8wpi6qccxCHq5wNRzEcffVp863eAffIe\nNPn7yKJaaE9lTB31rJ7+Ant/1MIiR7QzoZBzb5Pczmum6L6of+52ihBOUk/bLeBc\nX7itbiKBTQKBgBjsbMxrN0kqu+D8Dy8T9Kwx9mjamvCUYdSn6XEc1ERpvDoD7ckA\nOjoU5tEDHzikh+43+kAybASgWM15tUArul9SwNQplSblhAgp7RvApjT6gX2lmfu2\n+G4y2dzRTf5UiMQhWblHE5KwlIhRGckdrwTPKPA7DTo13p6FEuKRzdxRAoGBAKJr\nxhnTmNYscALjTwuXcRfuQm5QLhS0tJuXcNgma5YDyLpQnrdHhWx6w6To3lXnLTdZ\nRBU5T718FzQa1xvzRbvJ/B7DWxXl8hU2cujX1Du5bWw919EiVEohjZbK9jC1ct0Y\n/jeAhWhzs6BAhApGc9WOJu9FZ5W39j27N8zkad3FAoGAHpcrvpb0nEGTh/2EP9l8\n29BvJFp+M8YtuEEe8HEbF7vBJlUnD586UDIm4o/hr0ZU5UUy4li5N6QcV1Vpp7kc\nucbmaeH80SvG4JcY3TDLsxeKelt8fVzIvhc0LwGIinRFLMXLoKE+xlZpwubGdC2+\ntM8CFuT0mhRupSQjHKQKDCw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deployments@tap-dating-app.iam.gserviceaccount.com",
+  "client_id": "102423057275317909094",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deployments%40tap-dating-app.iam.gserviceaccount.com"
+}
